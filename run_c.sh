@@ -1,1 +1,1 @@
-ms 100 1 -f c.ms
+ms 500 1 -f c.ms
